@@ -11,6 +11,7 @@
     <modules>
         <module>Igra</module>
         <module>Classes</module>
+        <module>Exeptions</module>
     </modules>
 
     <properties>
